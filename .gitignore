@@ -51,7 +51,7 @@ yarn.lock
 package-lock.json
 
 # Compiled
-dist
-lib
+#dist
+#lib
 
 .idea
